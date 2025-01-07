@@ -1,4 +1,4 @@
-# sfguide-getting-started-with-amazon-q-for-business-and-cortex
+# Getting Started with Amazon Q for Business and Cortex
 
 
 ## Overview
